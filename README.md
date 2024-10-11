@@ -1,9 +1,19 @@
 ## Hola 👋 Soy Cinlo Losada
 
 ### Sobre mí
-Soy una desarrolladora fullstack apasionada por la tecnología y la innovación. Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas del mundo real.
+Como desarrolladora fullstack, tengo un fuerte interés en la tecnología y la innovación. Me gusta aprender nuevas herramientas y lenguajes de programación, aplicando mis conocimientos para resolver problemas de manera eficiente.
 
-#### Intereses: 🌐 Desarrollo Web - 🤖 Inteligencia Artificial - 💻 Diseño UX/UI
+### Intereses
+<div style="display: flex; align-items: center; justify-content: center; margin: 0 50px;">
+  <div style="flex: 1; margin-right: 20px;">
+    - 🌐 Desarrollo Web<br>
+    - 🤖 Inteligencia Artificial<br>
+    - 💻 Diseño UX/UI
+  </div>
+  <div style="flex: 1; text-align: right; margin-left: 20px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" style="border-radius: 20%;">
+  </div>
+</div>
 
 
 ### Tecnologías y Herramientas
@@ -43,7 +53,5 @@ Soy una desarrolladora fullstack apasionada por la tecnología y la innovación.
   </a>
 </p>
 
-¡Gracias por visitar mi perfil!
-
-
+¡Gracias por visitar mi perfil☺️!
 
