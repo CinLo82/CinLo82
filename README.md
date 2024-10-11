@@ -4,17 +4,10 @@
 Como desarrolladora fullstack, tengo un fuerte interés en la tecnología y la innovación. Me gusta aprender nuevas herramientas y lenguajes de programación, aplicando mis conocimientos para resolver problemas de manera eficiente.
 
 ### Intereses
-<div style="display: flex; align-items: center; justify-content: center; margin: 0 50px;">
-  <div style="flex: 1; margin-right: 20px;">
-    - 🌐 Desarrollo Web<br>
-    - 🤖 Inteligencia Artificial<br>
-    - 💻 Diseño UX/UI
-  </div>
-  <div style="flex: 1; text-align: right; margin-left: 20px;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" style="border-radius: 20%;">
-  </div>
-</div>
 
+- 🌐 Desarrollo Web
+- 🤖 Inteligencia Artificial
+- 💻 Diseño UX/UI
 
 ### Tecnologías y Herramientas
 <p align="center">
